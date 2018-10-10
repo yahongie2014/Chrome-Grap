@@ -3,11 +3,14 @@
 Simply That Tool Used For Hack Chrome Saved Password for Victim 
 --------------------------------------
 >[Article End User](http://serinc.tech)
-# How To start type :
+# How to start develope :
 >python client.py
 -----------------------------
 >pyinstaller -F clinet.py
 ------------------------------
+# You Can Use IT Offline :
+> Just Run client.exe
+---------------------------
 >To Browse passwordsdecrypt.db use that [Program](https://sqlitebrowser.org/)
 
 --------------------------------
