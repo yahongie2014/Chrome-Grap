@@ -1,8 +1,6 @@
 #Chrome Grap Saved Password
 ---------------------------------
-Misssion Start
-Read the feed programmatically and categorize the messages according to the sentiment (field: sentiment) of the message (field: Message). The messages should be displayed on a map and attached to the respective cities mentioned in the message.
-
+Simply That Tool Used For Hack Chrome Saved Password for Victim 
 --------------------------------------
 >[Article End User](http://serinc.tech)
 # How To start type :
