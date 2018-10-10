@@ -4,12 +4,10 @@ Misssion Start
 Read the feed programmatically and categorize the messages according to the sentiment (field: sentiment) of the message (field: Message). The messages should be displayed on a map and attached to the respective cities mentioned in the message.
 
 --------------------------------------
->[Article End User](https://spreadsheets.google.com/feeds/list/14zFud_rIym9GIqewBXV6mYh-s6hbAGBOIWs1NqAbdik/od6/public/basic)
+>[Article End User](http://serinc.tech)
 # How To start type :
->Composer update --no-scripts
->cp .env.example .env
->php artisan key:generate
->php artisan server 
+>python client.py
+>pyinstaller -F clinet.py
 
 --------------------------------
 >As Shown
